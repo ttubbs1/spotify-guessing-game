@@ -1,3 +1,5 @@
+Group project for Cook Systems. Worked with d5732, amsalmeron
+
 Assessment 2
 ===============================
 # Overview
